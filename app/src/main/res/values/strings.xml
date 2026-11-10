@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mini 待辦事項</string>
+    <string name="app_title">Mini 待辦</string>
+
+    <string name="action_add">新增待辦</string>
+    <string name="action_archive">封存</string>
+    <string name="action_complete">完成</string>
+    <string name="action_mark_incomplete">標記未完成</string>
+    <string name="action_search">搜尋</string>
+    <string name="action_saving">儲存中…</string>
+    <string name="action_sort">排序</string>
+    <string name="action_delete">刪除</string>
+    <string name="action_restore">還原</string>
+    <string name="action_undo">復原</string>
+    <string name="action_save">儲存</string>
+    <string name="action_cancel">取消</string>
+    <string name="action_confirm">確定</string>
+    <string name="action_discard">放棄</string>
+    <string name="action_keep_editing">繼續編輯</string>
+    <string name="action_clear">清除</string>
+    <string name="action_open_settings">前往設定</string>
+    <string name="action_back">返回</string>
+    <string name="action_more">更多選項</string>
+
+    <string name="sort_earliest_start">最早開始時間</string>
+    <string name="sort_created">建立時間</string>
+    <string name="sort_manual">手動排序</string>
+
+    <string name="section_overdue">逾期</string>
+    <string name="section_today">今天</string>
+    <string name="section_upcoming">接下來</string>
+    <string name="section_no_date">無日期</string>
+    <string name="section_all">全部</string>
+    <string name="section_completed">已完成</string>
+
+    <string name="empty_title">還沒有待辦</string>
+    <string name="empty_message">新增第一個待辦事項，開始安排今天。</string>
+    <string name="search_hint">搜尋待辦或清單項目</string>
+    <string name="search_no_results">找不到符合的待辦</string>
+    <string name="search_no_results_message">換個關鍵字試試看。</string>
+    <string name="archive_empty_title">沒有封存的待辦</string>
+    <string name="archive_empty_message">封存的待辦會顯示在這裡。</string>
+    <string name="error_title">發生錯誤</string>
+    <string name="error_message">無法載入資料，請稍後再試。</string>
+
+    <string name="todo_progress">%1$d/%2$d</string>
+    <string name="todo_no_items">尚無清單項目</string>
+    <string name="todo_overdue">已逾期</string>
+    <string name="untitled_todo">未命名待辦</string>
+    <string name="untitled_item">未命名項目</string>
+
+    <string name="new_todo_title">新增待辦</string>
+    <string name="edit_todo_title">編輯待辦</string>
+    <string name="todo_title_label">標題</string>
+    <string name="color_label">顏色</string>
+    <string name="items_label">待辦清單</string>
+    <string name="add_item">新增清單項目</string>
+    <string name="item_title_label">項目標題</string>
+    <string name="start_label">開始</string>
+    <string name="end_label">結束</string>
+    <string name="completed_label">已完成</string>
+    <string name="all_day_label">整天</string>
+    <string name="select_date">選擇日期</string>
+    <string name="select_time">選擇時間</string>
+    <string name="date_today">今天</string>
+    <string name="date_tomorrow">明天</string>
+    <string name="date_next_week">下週</string>
+    <string name="delete_item">刪除項目</string>
+    <string name="drag_handle">拖曳排序</string>
+    <string name="mark_todo_complete">標記待辦完成</string>
+
+    <string name="color_none">無顏色</string>
+    <string name="color_red">紅色</string>
+    <string name="color_orange">橘色</string>
+    <string name="color_yellow">黃色</string>
+    <string name="color_lime">萊姆綠</string>
+    <string name="color_green">綠色</string>
+    <string name="color_teal">藍綠色</string>
+    <string name="color_cyan">青色</string>
+    <string name="color_blue">藍色</string>
+    <string name="color_indigo">靛藍</string>
+    <string name="color_purple">紫色</string>
+    <string name="color_deep_purple">深紫色</string>
+    <string name="color_pink">粉紅色</string>
+    <string name="color_brown">棕色</string>
+    <string name="color_blue_grey">藍灰色</string>
+    <string name="color_deep_orange">深橘色</string>
+
+    <string name="settings_title">設定</string>
+    <string name="settings_section_general">一般</string>
+    <string name="settings_section_appearance">外觀</string>
+    <string name="settings_section_notifications">通知與提醒</string>
+    <string name="settings_section_about">關於</string>
+    <string name="settings_sort">預設排序</string>
+    <string name="settings_theme">外觀</string>
+    <string name="theme_system">跟隨系統</string>
+    <string name="theme_light">淺色</string>
+    <string name="theme_dark">深色</string>
+    <string name="settings_theme_color">主題色彩</string>
+    <string name="theme_color_dynamic">跟隨桌布</string>
+    <string name="theme_color_blue">預設藍</string>
+    <string name="theme_color_green">森林綠</string>
+    <string name="theme_color_purple">薰衣草紫</string>
+    <string name="theme_color_orange">暖陽橘</string>
+    <string name="theme_color_pink">玫瑰粉</string>
+    <string name="theme_color_teal">湖水綠</string>
+    <string name="settings_notifications">通知權限</string>
+    <string name="settings_notifications_granted">已允許</string>
+    <string name="settings_notifications_denied">未允許，將無法收到提醒</string>
+    <string name="settings_exact_alarm">精確提醒</string>
+    <string name="settings_exact_alarm_granted">已允許</string>
+    <string name="settings_exact_alarm_denied">未允許，提醒可能延遲</string>
+
+    <string name="settings_section_backup">備份與還原</string>
+    <string name="backup_export">匯出備份</string>
+    <string name="backup_export_summary">將所有待辦與封存資料匯出為 JSON 檔案</string>
+    <string name="backup_import">匯入備份</string>
+    <string name="backup_import_summary">從 JSON 檔案還原；會覆蓋目前所有待辦</string>
+    <string name="backup_export_success">已匯出 %1$d 個待辦</string>
+    <string name="backup_export_failed">匯出失敗，請再試一次</string>
+    <string name="backup_import_success">已匯入 %1$d 個待辦</string>
+    <string name="backup_import_failed">匯入失敗，檔案格式可能不正確</string>
+    <string name="backup_import_confirm_title">匯入備份？</string>
+    <string name="backup_import_confirm_message">匯入會覆蓋目前所有待辦與封存資料，此操作無法復原。</string>
+    <string name="action_import">匯入</string>
+
+    <string name="about_version">版本 %1$s（%2$d）</string>
+    <string name="about_privacy">隱私說明</string>
+    <string name="about_privacy_body">所有待辦資料只儲存在您的裝置上，不會上傳或分享給任何人。</string>
+    <string name="about_license">授權</string>
+    <string name="about_license_body">本 App 原始碼採 MIT License 授權；使用之開放原始碼元件依其原授權提供，主要為 Apache License 2.0。</string>
+    <string name="close">關閉</string>
+
+    <string name="archive_screen_title">封存待辦</string>
+    <string name="archive_completed">封存已完成</string>
+    <string name="archive_completed_count">已封存 %1$d 個完成的待辦</string>
+    <string name="archived_on">封存於 %1$s</string>
+    <string name="archive_confirm_title">刪除待辦？</string>
+    <string name="archive_confirm_message">刪除後無法復原。</string>
+    <string name="archived_message">已封存「%1$s」</string>
+    <string name="deleted_message">已刪除「%1$s」</string>
+    <string name="unsaved_title">放棄變更？</string>
+    <string name="unsaved_message">尚未儲存的內容將會遺失。</string>
+    <string name="validation_title_empty">請輸入待辦標題</string>
+    <string name="validation_end_before_start">結束時間不可早於開始時間</string>
+    <string name="save_failed">儲存失敗，請再試一次</string>
+    <string name="action_move_up">上移</string>
+    <string name="action_move_down">下移</string>
+    <string name="separator_middle_dot">" · "</string>
+    <string name="separator_range">" – "</string>
+
+    <string name="notification_channel_name">待辦提醒</string>
+    <string name="notification_channel_description">待辦開始與結束時間提醒</string>
+    <string name="notification_complete">完成</string>
+    <string name="notification_snooze">延後 10 分鐘</string>
+    <string name="notification_start_text">開始時間到了</string>
+    <string name="notification_end_text">結束時間到了</string>
+    <string name="notification_content">%1$s · %2$s</string>
+    <string name="notification_todo_label">所屬待辦：%1$s</string>
+    <string name="notification_snoozed">已延後 10 分鐘</string>
+
+    <string name="widget_name">待辦小工具</string>
+    <string name="widget_description">顯示一個待辦事項，可直接勾選清單項目</string>
+    <string name="widget_config_title">選擇要顯示的待辦</string>
+    <string name="widget_config_empty_message">請先在 App 新增待辦，再回來設定小工具。</string>
+    <string name="widget_config_load_failed">無法讀取小工具設定，請再試一次</string>
+    <string name="widget_config_save_failed">無法更新小工具，請再試一次</string>
+    <string name="widget_no_todo">尚未選擇待辦</string>
+    <string name="widget_no_todo_hint">長按小工具並選擇「重新配置」，即可選擇要顯示的待辦。</string>
+    <string name="widget_deleted_todo">此待辦已不存在</string>
+    <string name="widget_loading">載入中…</string>
+    <string name="widget_no_items">尚無清單項目</string>
+    <string name="widget_more_items">+%1$d 項</string>
+    <string name="widget_completed_progress">已完成 %1$d/%2$d</string>
+
+    <string name="content_description_expand">展開清單</string>
+    <string name="content_description_collapse">收合清單</string>
+    <string name="content_description_toggle_complete">切換完成狀態</string>
+</resources>
